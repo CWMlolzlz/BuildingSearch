@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-BuildingSearch", "CS-BuildingSearch.csproj", "{63BCF4C0-641C-43B7-A105-80B415D8394E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-ToolbarModifierUtil", "..\CS-ToolbarModifierUtil\CS-ToolbarModifierUtil.csproj", "{11C8D7C5-6201-4E1F-AB40-42A883D2B429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BCF4C0-641C-43B7-A105-80B415D8394E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BCF4C0-641C-43B7-A105-80B415D8394E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BCF4C0-641C-43B7-A105-80B415D8394E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BCF4C0-641C-43B7-A105-80B415D8394E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C8D7C5-6201-4E1F-AB40-42A883D2B429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C8D7C5-6201-4E1F-AB40-42A883D2B429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C8D7C5-6201-4E1F-AB40-42A883D2B429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C8D7C5-6201-4E1F-AB40-42A883D2B429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
